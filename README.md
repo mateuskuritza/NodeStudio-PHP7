@@ -17,17 +17,19 @@
    - Funções echo e print.
 
 <details>
+<html>
     <summary>Indo além</summary>
-    
+    <br>
     Qual a diferença das funções 'echo' e 'print' ?
     <ul>
-        <strong>print</strong>
-    		<li>Pode ser utilizada em expressões e retorna <em>true</em> como resultado.</li><br>
-        <strong>echo</strong>
-            <li>Retorna um tipo <em>void</em>, portanto não pode ser usada em expressões;</li>
-            <li>É possível utilizar vários argumentos separados por vírgula;</li>
-            <li>É um pouco mais rápida.</li>
+      <strong>print</strong>
+    	  <li>Pode ser utilizada em expressões e retorna <em>true</em> como resultado.</li><br>
+      <strong>echo</strong>
+        <li>Retorna um tipo <em>void</em>, portanto não pode ser usada em expressões;</li>
+        <li>É possível utilizar vários argumentos separados por vírgula;</li>
+        <li>É um pouco mais rápida.</li>
     </ul>
+</html>
 </details>
 
 
