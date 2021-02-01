@@ -19,8 +19,8 @@
 <details>
 <html>
     <summary>Indo além</summary>
+    Qual a diferença das funções 'echo' e 'print' ? 
     <br>
-    Qual a diferença das funções 'echo' e 'print' ?
     <ul>
       <strong>print</strong>
     	  <li>Pode ser utilizada em expressões e retorna <em>true</em> como resultado.</li><br>
